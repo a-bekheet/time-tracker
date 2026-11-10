@@ -1,0 +1,5 @@
+.build/
+.swiftpm/
+Time Tracker.app/
+dist/
+.DS_Store
